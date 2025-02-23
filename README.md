@@ -20,8 +20,11 @@ proto=TCP&rtt=28785&min_rtt=23595&rtt_var=12555&sent=5&recv=8&lost=0&retrans=0&s
 
 Key Things To Look For:
 
-HTTP/2 302 - Indicates a temporary redirect
-location: https://developers.cloudflare.com/learning-paths/get-started/ - The destination URL
+Redirect -->
+HTTP/2 302
 
-Cloudflare-specific Headers:
-3. cf-ray: 9168bd4a4ad0f06c-DFW
+Destination URL -->
+https://developers.cloudflare.com/learning-paths/get-started/ 
+
+Cloudflare-specific Headers -->
+cf-ray: 9168bd4a4ad0f06c-DFW
