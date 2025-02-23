@@ -4,7 +4,7 @@ cfworker
 Example:
 
 Command 
-  curl -I https://cfworker.mikuszed.workers.dev
+  --> curl -I https://cfworker.mikuszed.workers.dev
 
 Response  
   HTTP/2 302 
